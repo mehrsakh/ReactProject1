@@ -14,3 +14,29 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+This project is a simple and clean **React app built with Vite**.  
+The goal of the project is to practice component structure, CSS Modules, and create a professional-looking header and footer with a search input.
+
+---
+
+## Features
+
+- **Header**:
+  - Logo on the left
+  - Navigation links (Home, About, Projects, Contact)
+  - Minimal and animated search input
+  - Professional navy blue color scheme
+  - Sticky at the top of the page
+
+- **Footer**:
+  - Fixed at the bottom
+  - Social links
+  - Minimal design consistent with the header
+
+- **Main Content**:
+  - Central content area
+  - Clean layout with proper spacing from header and footer
+
